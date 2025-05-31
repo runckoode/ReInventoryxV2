@@ -1,0 +1,40 @@
+# IDE and Editor files
+.idea/
+*.iml
+.vscode/
+*.suo
+*.user
+
+# Build and dependency directories
+target/
+out/
+build/
+dist/
+bin/
+node_modules/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+*.swp
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment and configuration files
+.env
+*.local
+*.env.local
+
+# Documentation and test files
+docs/
+*.md
+test/
+tests/
+
+# Scripts
+script.pod
+conf/
